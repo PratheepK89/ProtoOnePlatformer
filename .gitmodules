@@ -1,0 +1,3 @@
+[submodule "proto-platformer-unity"]
+	path = proto-platformer-unity
+	url = https://github.com/crowdgames/proto-platformer-unity.git
